@@ -1,4 +1,4 @@
-# Unity PrisonEscape Text101 (Text-Based Adventure Game)
+# Unity: PrisonEscape Text101 (Text-Based Adventure Game)
 
 This is my second game project with Unity. This time it is a text-based adventure game.
 <ul>
