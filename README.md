@@ -1,5 +1,6 @@
 # Unity: PrisonEscape Text101 (Text-Based Adventure Game)
-
+<p align="center">
+<a href="https://simmer.io/@bhavyajustchill/prison-escape"><img height=85px src="screenshots/final_playDemoBtn.png" /></a> </p>
 This is my second game project with Unity. This time it is a text-based adventure game.
 <ul>
 <li>It is first UI game</li>
